@@ -1,0 +1,13 @@
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\bin\Debug\G_C_Project.exe
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\bin\Debug\G_C_Project.pdb
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.Form1.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.Properties.Resources.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.csproj.GenerateResource.Cache
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.exe
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.pdb
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.Home.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\bin\Debug\Database1.mdf
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\bin\Debug\Database1_log.ldf
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\bin\Debug\G_C_Project.exe.config
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.S_Add.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Debug\G_C_Project.csprojResolveAssemblyReference.cache

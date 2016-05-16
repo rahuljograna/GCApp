@@ -1,0 +1,6 @@
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\bin\Release\G_C_Project.exe.config
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Release\G_C_Project.Form1.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Release\G_C_Project.Home.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Release\G_C_Project.Properties.Resources.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Release\G_C_Project.S_Add.resources
+E:\Learning Resource\Project\GC\G_C_Project\G_C_Project\obj\x86\Release\G_C_Project.csproj.GenerateResource.Cache
